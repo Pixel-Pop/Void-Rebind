@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseRebind", "MouseRebind\MouseRebind.csproj", "{4A255D59-A186-45A7-9C7A-12C0F5AB2634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A255D59-A186-45A7-9C7A-12C0F5AB2634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A255D59-A186-45A7-9C7A-12C0F5AB2634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A255D59-A186-45A7-9C7A-12C0F5AB2634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A255D59-A186-45A7-9C7A-12C0F5AB2634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD0380A-15CD-4850-BA71-B6CC06176AFF}
+	EndGlobalSection
+EndGlobal
